@@ -59,3 +59,8 @@ JobTrack is a user-friendly platform built with a focus on simplicity and perfor
    cd jobtrack
    npm install
    npm run dev
+1. Passwords if you're signin is not work
+   ```bash
+   Admin: email: **muzamiltahliil1@gmail.com** Password: **123456**
+   User: email: **samiirmacalin4@gmail.com**  password: **223344**
+ 
